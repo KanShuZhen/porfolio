@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://d2s4densakmsrt.cloudfront.net/wp-sitemap.xml
+Sitemap: http://shuzhen-portfolio.local/wp-sitemap.xml
